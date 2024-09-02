@@ -11,7 +11,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=evilurl&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=evilurl&limit=5&theme=vue-dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=evilurl&limit=5&theme=vue-dark&combine_all_yearly_contributions=false)
 
 ### ✍️ Random Dev Quote
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&width=495)
