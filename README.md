@@ -4,14 +4,14 @@
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=evilurl&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=evilurl&theme=vue-dark&hide_border=false)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evilurl&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&card_width=450)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evilurl&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&card_width=500)
 
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=evilurl&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=evilurl&limit=5&theme=vue-dark&combine_all_yearly_contributions=false)
+![](https://github-contributor-stats.vercel.app/api?username=evilurl&limit=5&theme=vue-dark&combine_all_yearly_contributions=true)
 
 ### ✍️ Random Dev Quote
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&width=495)
