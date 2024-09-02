@@ -1,5 +1,5 @@
 ## 💫 About Me:
-🔭 I’m currently working on C++ Projects<br>👯 I’m looking to collaborate on <br>🤝 I’ll help you with what i can<br>🌱 I’m currently learning OOP & DSA in C++<br>💬 Ask me about something interesting in CEH
+🔭 I’m currently working on <b>C++ Projects</b><br>👯 I’m looking to collaborate on <b>interesting projects</b><br>🤝 I’ll help you with what i can<br>🌱 I’m currently learning <b>OOP & DSA in C++</b><br>💬 Ask me about something interesting in <b>CEH</b>
 
 
 ## 🌐 Socials:
