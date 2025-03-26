@@ -7,7 +7,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evilurl&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&card_width=495)
 
 ## 📊 TryHackMe Profile:
-![TryHackMe Stats](<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2314845" style='border:none;'></iframe>)
+![TryHackMe Stats](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2314845)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=evilurl&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
