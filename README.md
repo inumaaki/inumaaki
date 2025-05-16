@@ -2,15 +2,15 @@
 🔭 I’m currently working on <b>C++ Projects</b><br>👯 I’m looking to collaborate on <b>interesting projects</b><br>🤝 I’ll help you with what i can<br>🌱 I’m currently learning <b>OOP & DSA in C++</b><br>💬 Ask me about something interesting in <b>CEH</b>
 
 ## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=evilurl&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&card_width=495)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=evilurl&theme=vue-dark&hide_border=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evilurl&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&card_width=495)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=inumaaki&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&card_width=495)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=inumaaki&theme=vue-dark&hide_border=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inumaaki&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&card_width=495)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=evilurl&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=inumaaki&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=evilurl&limit=5&theme=vue-dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=inumaaki&limit=5&theme=vue-dark&combine_all_yearly_contributions=true)
 
 ### ✍️ Random Dev Quote
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&width=495)
